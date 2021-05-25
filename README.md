@@ -6,8 +6,8 @@ Sharpen my skills building 40 projects with Vanilla JavaScript, VueJs and TypeSc
 
 ### Vanilla JavaScript
 
-- [Color Flipper]('/01-color-flipper')
-- [Counter]('/02-couter')
+- [Color Flipper](01-color-flipper)
+- [Counter](02-couter)
 
 ### VueJs
 
