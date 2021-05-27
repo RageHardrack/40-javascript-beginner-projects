@@ -8,6 +8,8 @@ Sharpen my skills building 40 projects with Vanilla JavaScript, VueJs and TypeSc
 
 - [Color Flipper](01-color-flipper)
 - [Counter](02-couter)
+- [Reviews](03-reviews)
+- [Navbar](04-navbar)
 - Coming soon...
 
 ### VueJs
